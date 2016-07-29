@@ -6,7 +6,7 @@ ________________________________________
 
 Profile Summary
 
-1. I am a full-stack developer seeking to change to developing in Ruby.
+1. I am a full-stack developer seeking challenging opportunities in web application development.
 2. Having 3 Years 3 months of experience in building analysis, design, implementation, coding and maintenance of Siebel Software Systems. 
 3. Interactive and inventive person with strong knowledge of Siebel CRM Administration & Shell Scripting.
 4. Experience in Development and Maintenance projects with Core expertise in Siebel Administration, Shell Scripting. 
